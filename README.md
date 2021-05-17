@@ -1,5 +1,7 @@
 # Hakuna-Fermata
 
+This piece is called Mindless Gazing, and it is a relaxing orientated piece that spans just over 5 minutes.  I drew inspiration for this piece from my brainstorming piece below, as well as some of the tutorial soundbytes of sonic pi's documentation.
+
 Brainstorming Ideas:
 
 1.	Out of My League – Fitz and the Tantrums
